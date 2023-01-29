@@ -1,0 +1,16 @@
+.start,.buy{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 191, 0);
+    font-family: sans-serif;
+    border-radius: 8px;
+ }
+ .start,.buy:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(244, 212, 34);
+    transition: 0.4s;
+
+ }
+ .section2{
+   background-color: rgba(169, 169, 169, 0.641);
+ }
